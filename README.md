@@ -1,3 +1,3 @@
 # Blooger
 Blooger : Projet réalisé avec 
-HTML, CSS, Bootstrap, JQuery, OWL, AOS and Font Awesome
+HTML, CSS, Bootstrap, JQuery, OWL, AOS et Font Awesome
